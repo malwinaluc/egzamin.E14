@@ -1,0 +1,35 @@
+#baner{
+    background: #0B873D;
+    color: white;
+    font-size: 150%;
+    text-align: center;
+}
+
+#panel_lewy{
+    background: #8CE1AE;
+    width: 40%;
+    height: 600px;
+    float: left;
+}
+
+#panel_srod{
+    background: #5CCB89;
+    width: 40%;
+    height: 600px;
+    float: left;
+}
+
+#panel_prawy{
+    background: #1DA956;
+    width: 20%;
+    height: 600px;
+    float: left;
+}
+/* 
+a{
+
+} */
+
+ol{
+    margin: 20px;
+}

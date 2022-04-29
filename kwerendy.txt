@@ -1,0 +1,3 @@
+SELECT id, model, kolor FROM `samochody` WHERE marka="Toyota" and rocznik=2014
+SELECT id, marka, model, rocznik FROM `samochody`
+SELECT Samochody_id, model, telefon FROM `samochody`, zamowienia WHERE id.samochody=samochody_id
